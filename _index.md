@@ -105,19 +105,7 @@ showcase: |
     <a class="btn btn-primary btn-sm float-right mb-3" href="https://www.eclipse.org/org/research/">Learn More</a>
 
     <h2 id="get-involved" style="clear:both;" class="mt-5">Get Involved!</h2>
-    <p>Interested in getting involved with the Eclipse Foundation? Complete the form below to connect with us and join our community! Completing the form will also enter you in a random drawing for your chance to win a free Eclipse Cloud Development Tools hoodie shipped free anywhere in the world!</p>
-    <!--[if lte IE 8]>
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-    <![endif]-->
-    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-    <script>
-    hbspt.forms.create({ portalId: "5413615", formId: "d26d40b9-1c93-4c2d-9450-e4788000cd7d"});
-    </script>
-    <style>
-    .hbspt-form .hs-form-iframe {
-        width: 100% !important;
-    }
-    </style>
+    <p>Interested in getting involved with the Eclipse Foundation? Complete this <a href="https://share.hsforms.com/10m1AuRyTTC2UUOR4gADNfQ38167">form to connect with us and join our community! Completing the form will also enter you in a random drawing for your chance to win a free Eclipse Cloud Development Tools hoodie shipped free anywhere in the world!</p>
 
 
 show_on_overview: true
