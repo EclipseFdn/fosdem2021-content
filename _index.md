@@ -120,6 +120,6 @@ showcase: |
     </style>
 
 
-
+show_on_overview: true
 layout: stand
 ---
