@@ -105,7 +105,7 @@ showcase: |
     <a class="btn btn-primary btn-sm float-right mb-3" href="https://www.eclipse.org/org/research/">Learn More</a>
 
     <h2 id="get-involved" style="clear:both;" class="mt-5">Get Involved!</h2>
-    <p>Interested in getting involved with the Eclipse Foundation? Complete this <a href="https://share.hsforms.com/10m1AuRyTTC2UUOR4gADNfQ38167">form to connect with us and join our community! Completing the form will also enter you in a random drawing for your chance to win a free Eclipse Cloud Development Tools hoodie shipped free anywhere in the world!</p>
+    <p>Interested in getting involved with the Eclipse Foundation? Complete this <a href="https://share.hsforms.com/10m1AuRyTTC2UUOR4gADNfQ38167">form</a> to connect with us and join our community! Completing the form will also enter you in a random drawing for your chance to win a free Eclipse Cloud Development Tools hoodie shipped free anywhere in the world!</p>
 
 
 show_on_overview: true
