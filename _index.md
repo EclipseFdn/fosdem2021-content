@@ -106,7 +106,7 @@ showcase: |
 
     <h2 id="get-involved" style="clear:both;" class="mt-5">Get Involved!</h2>
     <p>Interested in getting involved with the Eclipse Foundation? Complete this <a href="https://share.hsforms.com/10m1AuRyTTC2UUOR4gADNfQ38167">form</a> to connect with us and join our community! Completing the form will also enter you in a random drawing for your chance to win a free Eclipse Cloud Development Tools hoodie shipped free anywhere in the world!</p>
-    <a href="https://share.hsforms.com/10m1AuRyTTC2UUOR4gADNfQ38167" class="btn btn-primary">Get Involved</a>
+    <p><a href="https://share.hsforms.com/10m1AuRyTTC2UUOR4gADNfQ38167" class="btn btn-primary">Get Involved</a></p>
 
 chatroom: eclipse
 show_on_overview: true
