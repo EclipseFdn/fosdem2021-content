@@ -28,6 +28,8 @@ showcase: |
     </ul>
     <p id="eclipse-at-fosdem">Join us for Eclipse-related sessions at the conference:</p>
     <p>Saturday, 14:40-15:20 - <a href="https://fosdem.org/2021/schedule/event/jakartaee9beyond/">Jakarta EE 9 and Beyond (Ivar Grimstad)</a></p>
+    <p>Sunday 14:30-15:00 - <a href="https://fosdem.org/2021/schedule/event/safety_and_open_source/">Safety and open source, oh my? </a>(Simon Hoinkis, Christian Eltzschig)</p>
+    <p>Sunday 16:20-16:35 - <a href="https://fosdem.org/2021/schedule/event/sca_update_sw360/">Eclipse SW360 Web application for managing software Bill-Of-Material </a>(Smruti Prakash Sahoo, Jaideep Palit, Abdul Kapti)</p>
     <p>While we are disappointed to not meet in person at FOSDEM’21, we welcome you to our fast-growing community of contributors and committers. Send us a chat and fill out our form below to find out how to get involved and for a chance to win a free hoodie! </p>
     <h2 id="eclipse-brussels">The Eclipse Foundation has moved to Brussels!</h2>
     <p>The Eclipse Foundation AISBL is now the largest Open Source Foundation in Europe, with our new home based in the heart of Brussels, Belgium. Establishing this new organization will accelerate the drive to digitization throughout the EU and provide a new engine for the development of innovative and open technologies across the continent and beyond. Find out more about our move at <a href="https://www.eclipse.org/europe/">eclipse.org/europe</a>.</p>
