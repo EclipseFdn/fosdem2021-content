@@ -95,6 +95,22 @@ showcase: |
     <a class="btn btn-primary btn-sm float-right mb-3" href="https://iot.eclipse.org/">Learn More</a>
 
     <hr style="clear: both;">
+    <h3 id="oniro">Eclipse Oniro</h3>
+    <a href="https://oniroproject.org/"><img src="/stands/eclipse-foundation/logo-oniro.png" class="img img-fluid" alt="logo of Eclipse Oniro"></a>
+    <p><a href="https://oniroproject.org/">Oniro</a> is an Eclipse Foundation project based on the development of a distributed open source operating system, that means one single software able to talk, interconnect and relate multiple IoT and consumer devices.</p>
+    <p>This approach is opening to a new mission: avoiding technology silos through the path of building one end-to-end open source ecosystem that is able to integrate device makers, ODMs, app developers and consumers perspectives and needs all together.</p>
+    <p>The goal of Oniro is to evolve a set of builtin system capabilities on top of commodity open source kernels that allows sharing of resources and collaboration across distributed devices of various classes along with reusing and collaborating with existing open source projects (e.g. Yocto Project, Zephyr, Reuse from FSFE, etc).</p>
+    <p>Interested in the project? There are multiple ways to connect with us:<br/>
+    <ul>
+    <li><a href="https://fosdem.org/2022/schedule/event/welcome_oniro/">Visit Oniro's FOSDEM 2022 stand</a></li>
+    <li><a href="https://oniroproject.org/join-us/">Join the working group</a></li>
+    <li><a href="https://accounts.eclipse.org/mailing-list/oniro-wg">Subscribe to the mailing list</a></li>
+    <li><a href="https://docs.oniroproject.org/en/latest/community-chat-platform.html">Chat with community</a></li>
+    <li><a href="https://twitter.com/oniro_project">Follow Oniro on Twitter</a></li>
+    </ul>
+    <a class="btn btn-primary btn-sm float-right mb-3" href="https://oniroproject.org/">Learn More</a>
+
+    <hr style="clear: both;">
     <h3 id="jakartaee">Jakarta EE</h3>
     <a href="https://jakarta.ee/"><img src="/stands/eclipse-foundation/logo-jakartaee.jpg" class="img img-fluid" alt="logo of Jakarta EE"></a>
     <p>For many years, Java EE has been a major platform for mission-critical enterprise applications. In order to accelerate business application development for a cloud-native world, leading software vendors collaborated to move Java EE technologies to the Eclipse Foundation where they will evolve under the Jakarta EE brand. Powered by participation, Jakarta EE is focused on enabling community-driven collaboration and open innovation for the cloud. Build modern and portable enterprise applications and protect your investments in Java EE.</p>
