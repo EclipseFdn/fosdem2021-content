@@ -5,7 +5,7 @@ themes:
 website: https://www.eclipse.org
 logo: stands/eclipse-foundation/logo.jpg
 description: |
-    The Eclipse Foundation provides our global community with a mature, scalable, and business-friendly environment for open source software collaboration and innovation. You may be familiar with the Eclipse IDE, but the Foundation is also home to over 380 other projects and working groups. including Eclipse Cloud Dev Tools, Eclipse IoT, Edge Native and Jakarta EE. Visit our stand to learn more about our open source  projects and technologies, and how to get involved.
+    The Eclipse Foundation provides our global community with a mature, scalable, and business-friendly environment for open source software collaboration and innovation. You may be familiar with the Eclipse IDE, but the Foundation is also home to over 415 other projects and working groups. including Eclipse Cloud Dev Tools, Eclipse IoT, Edge Native and Jakarta EE. Visit our stand to learn more about our open source  projects and technologies, and how to get involved.
 
 showcase: |
     <div class="mb-3" style="background: #f89305;"><img src="/stands/eclipse-foundation/header-bg.jpg" class="img img-fluid" alt="Welcome to the Eclipse Foundation stand"></div>
