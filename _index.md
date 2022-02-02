@@ -103,6 +103,7 @@ showcase: |
     <p>Interested in the project? There are multiple ways to connect with us:<br/>
     <ul>
     <li><a href="https://fosdem.org/2022/schedule/event/welcome_oniro/">Visit Oniro's FOSDEM 2022 stand</a></li>
+    <li><a href="https://stands.fosdem.org/stands/oniro_project/#events">Attend Oniro's FOSDEM events</a>
     <li><a href="https://oniroproject.org/join-us/">Join the working group</a></li>
     <li><a href="https://accounts.eclipse.org/mailing-list/oniro-wg">Subscribe to the mailing list</a></li>
     <li><a href="https://docs.oniroproject.org/en/latest/community-chat-platform.html">Chat with community</a></li>
