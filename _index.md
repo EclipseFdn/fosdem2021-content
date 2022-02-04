@@ -21,6 +21,7 @@ showcase: >
 
   <ul>
     <li>Sunday, 11:10-11:30 - <a href="https://fosdem.org/2022/schedule/event/container_devfile/">Devfile file format : Containerized development environment specification</a> (Mario Loriedo)</li>
+    <li>Sunday, 13:20-14:00 - <a href="https://fosdem.org/2022/schedule/event/jakartaee/">Jakarta EE: Present & Future</a> (Reza Rahman)</li>
     <li>For the full schedule of Oniro talks you can visit the <a href="/stands/oniro_project/">Oniro stand</a>.</li>
   </ul>
 
